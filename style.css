@@ -1,0 +1,49 @@
+img {
+    float: right;
+    margin: 5px;}
+
+.home {
+    float: left;
+
+}
+.new{
+    position: absolute;
+    font-size: 30PX;
+    margin-top: -9X;
+}
+.home p {
+    border: 2px yellow solid;
+    padding: 5px;
+    margin: 20px;
+    background-color: aliceblue;
+
+}
+
+.main {
+    border: 2px black solid;
+    padding: 10px;
+    position: relative;
+   width: 80%;
+    height: 100%;
+    background-color: azure;
+}
+.IMG{
+    float: right;
+     rotate: 10DEG;
+
+}
+
+.body{
+    width: 100%;
+}
+.resource {
+    position: absolute;
+    top: 10px;
+    left: 85%;
+    margin-left: -25px;
+    border: 1px black solid;
+    padding: 5px;
+    background-color: lightblue;
+width: 150px;
+}
+   
